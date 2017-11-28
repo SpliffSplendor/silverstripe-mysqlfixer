@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/mysqlfixer",
+	"name": "spliffs/mysqlfixer",
 	"description": "Fix problems with MySQL-DB > 5.7.5 and some SilverStripe modules",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "mysql", "database"],
