@@ -20,7 +20,7 @@ Spliff Splendor
 
 ## Installation
 
- * If using composer, run `composer require silverstripe/mysqlfixer `.
+ * If using composer, run ` composer require spliffs/mysqlfixer `.
  * Otherwise, download, unzip and copy the 'mysqlfixer' folder to your project root so that it becomes a sibling of `framework/`.
 
 ## Configuration
