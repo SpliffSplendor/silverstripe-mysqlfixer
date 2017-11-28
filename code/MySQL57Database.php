@@ -11,7 +11,7 @@
  * @inheritdoc
  */
 
-class MySQL5720Database extends MySQLDatabase
+class MySQL57Database extends MySQLDatabase
 {
 
     public function connect($parameters)
